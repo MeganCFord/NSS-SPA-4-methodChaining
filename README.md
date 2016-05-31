@@ -28,7 +28,7 @@ cd 4-array-method-chaining
 open index.html
 ```
 
-[Live Site On Github]()
+[Live Site On Github](http://megancford.github.io/NSS-SPA-4-methodChaining)
 
 
 ![screenshot](chaining-screenshot.jpg)
